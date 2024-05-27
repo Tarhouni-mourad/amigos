@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 
-@import url("http://www.fontstatic.com/f=jazeera,jazeera-light");
+@import url("https://www.fontstatic.com/f=jazeera,jazeera-light");
 
 * {
   margin: 0;
@@ -9,6 +9,12 @@
   box-sizing: border-box;
   font-family: 'jazeera-light';
 
+}
+
+h1 img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
 }
 
 ion-icon {
